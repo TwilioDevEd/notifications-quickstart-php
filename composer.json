@@ -1,6 +1,0 @@
-{
-    "require": {
-        "twilio/sdk": "5.0.0-RC6",
-        "mikecao/flight": "^1.2"
-    }
-}
